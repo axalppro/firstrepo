@@ -7,7 +7,7 @@ Du texte et encore du texte, suivi d'une liste :
 
 Et enfin un peu de code :
 
-``sh
+```sh
 $cd myDir
 $git init
 $git status
