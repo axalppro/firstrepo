@@ -13,3 +13,9 @@ $git init
 $git status
 $ls -al
 ```
+
+```c
+int someVar;
+
+someVar = someFunction(4);
+```
